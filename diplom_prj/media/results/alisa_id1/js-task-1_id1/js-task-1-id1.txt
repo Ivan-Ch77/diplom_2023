@@ -1,2 +1,0 @@
-Tests passed successfully. Duration: 0.038523. Timeout: False. OOM killed: False
-
