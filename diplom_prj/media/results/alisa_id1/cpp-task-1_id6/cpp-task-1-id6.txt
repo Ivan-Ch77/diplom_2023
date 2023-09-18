@@ -1,0 +1,3 @@
+Tests passed successfully. Duration: 3.185614. Timeout: False. OOM killed: False
+
+All Fibonacci tests passed.
